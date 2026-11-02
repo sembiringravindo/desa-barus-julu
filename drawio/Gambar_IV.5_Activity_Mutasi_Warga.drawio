@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" version="24.7.0" type="device">
+ <diagram id="page1" name="Gambar IV.5 Activity Diagram Pencatatan Mutasi Warga">
+  <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="680" pageHeight="900" math="0" shadow="0">
+   <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="v2" value="Admin" style="swimlane;html=1;startSize=30;horizontal=1;fontStyle=1;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+     <mxGeometry x="40" y="40" width="300" height="820" as="geometry" />
+    </mxCell>
+    <mxCell id="v3" value="Sistem" style="swimlane;html=1;startSize=30;horizontal=1;fontStyle=1;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+     <mxGeometry x="340" y="40" width="300" height="820" as="geometry" />
+    </mxCell>
+    <mxCell id="v4" value="" style="ellipse;html=1;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="v2">
+     <mxGeometry x="135" y="54" width="30" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="v5" value="Login ke sistem" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v2">
+     <mxGeometry x="60" y="119" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v6" value="Membuka menu mutasi warga" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v2">
+     <mxGeometry x="60" y="200" width="180" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="v7" value="Memilih jenis mutasi (pindah datang, kelahiran, pindah keluar, atau kematian)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v2">
+     <mxGeometry x="40" y="304" width="220" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="v8" value="Mengisi form mutasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v2">
+     <mxGeometry x="60" y="435" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v9" value="Menyimpan data mutasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v3">
+     <mxGeometry x="60" y="539" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v10" value="Memperbarui status kependudukan warga secara otomatis" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="v3">
+     <mxGeometry x="60" y="632" width="180" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="v11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="v3">
+     <mxGeometry x="135" y="750" width="30" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="e12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v4" target="v5">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5" target="v6">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v6" target="v7">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v7" target="v8">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8" target="v9">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9" target="v10">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v10" target="v11">
+     <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+   </root>
+  </mxGraphModel>
+ </diagram>
+</mxfile>

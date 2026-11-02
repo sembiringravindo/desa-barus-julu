@@ -1,0 +1,202 @@
+<mxfile host="app.diagrams.net" version="24.7.0" type="device">
+ <diagram id="page1" name="Gambar IV.8 Mockup Dashboard Perangkat Desa">
+  <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="708" math="0" shadow="0">
+   <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="v2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#888888;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="30" width="1000" height="638" as="geometry" />
+    </mxCell>
+    <mxCell id="v3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e9ecef;strokeColor=#888888;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="30" width="1000" height="38" as="geometry" />
+    </mxCell>
+    <mxCell id="v4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff5f57;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="54" y="43" width="12" height="12" as="geometry" />
+    </mxCell>
+    <mxCell id="v5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#febc2e;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="74" y="43" width="12" height="12" as="geometry" />
+    </mxCell>
+    <mxCell id="v6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#28c840;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="94" y="43" width="12" height="12" as="geometry" />
+    </mxCell>
+    <mxCell id="v7" value="localhost/desa-barus-julu/admin/dashboard" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#c0c6cc;fontSize=11;fontColor=#666666;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="130" y="37" width="560" height="24" as="geometry" />
+    </mxCell>
+    <mxCell id="v8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e6091;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="68" width="1000" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v9" value="Sistem Informasi Desa Barus Julu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=14;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="56" y="68" width="500" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="840" y="79" width="28" height="28" as="geometry" />
+    </mxCell>
+    <mxCell id="v11" value="Perangkat Desa ▾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="876" y="68" width="150" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="v12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17324d;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="118" width="200" height="550" as="geometry" />
+    </mxCell>
+    <mxCell id="v13" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e6091;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="40" y="138" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v14" value="Pendataan Penduduk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="182" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v15" value="Mutasi Warga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="226" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v16" value="Verifikasi Surat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="270" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v17" value="Laporan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="314" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v18" value="Pengaturan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="40" y="358" width="200" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="v19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4f6f8;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="240" y="118" width="800" height="550" as="geometry" />
+    </mxCell>
+    <mxCell id="v20" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="260" y="134" width="400" height="28" as="geometry" />
+    </mxCell>
+    <mxCell id="v21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="178" width="230" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e6091;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="178" width="6" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v23" value="Total Penduduk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=11;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="278" y="186" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v24" value="1.254" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=24;fontColor=#1e6091;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="278" y="204" width="205" height="38" as="geometry" />
+    </mxCell>
+    <mxCell id="v25" value="Laki-laki 640  •  Perempuan 614" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="278" y="246" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="525" y="178" width="230" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2e7d32;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="525" y="178" width="6" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v28" value="Mutasi Bulan Ini" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=11;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="543" y="186" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v29" value="12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=24;fontColor=#2e7d32;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="543" y="204" width="205" height="38" as="geometry" />
+    </mxCell>
+    <mxCell id="v30" value="Masuk 7  •  Keluar 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="543" y="246" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="790" y="178" width="230" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ef8f00;strokeColor=none;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="790" y="178" width="6" height="96" as="geometry" />
+    </mxCell>
+    <mxCell id="v33" value="Pengajuan Menunggu Verifikasi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=11;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="808" y="186" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v34" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=24;fontColor=#ef8f00;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="808" y="204" width="205" height="38" as="geometry" />
+    </mxCell>
+    <mxCell id="v35" value="Perlu ditindaklanjuti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontColor=#757575;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="808" y="246" width="205" height="18" as="geometry" />
+    </mxCell>
+    <mxCell id="v36" value="Pengajuan Surat Terbaru" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=13;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="260" y="298" width="500" height="24" as="geometry" />
+    </mxCell>
+    <mxCell id="v37" value="No" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8eef5;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="260" y="328" width="40" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v38" value="Nama Pemohon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8eef5;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="300" y="328" width="190" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v39" value="Jenis Surat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8eef5;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="490" y="328" width="250" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v40" value="Tanggal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8eef5;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="740" y="328" width="130" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v41" value="Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8eef5;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="870" y="328" width="150" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v42" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="364" width="40" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v43" value="Mbaru Ginting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="300" y="364" width="190" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v44" value="Surat Keterangan Domisili" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="490" y="364" width="250" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v45" value="01/10/2026" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="740" y="364" width="130" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="870" y="364" width="150" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v47" value="Menunggu" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#ef8f00;strokeColor=#ef8f00;fontSize=10;fontColor=#ffffff;align=center;verticalAlign=middle;spacingLeft=2;spacingRight=2;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="878" y="372" width="70" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="v48" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="400" width="40" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v49" value="Rosmawati Sembiring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="300" y="400" width="190" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v50" value="Surat Keterangan Usaha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="490" y="400" width="250" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v51" value="30/09/2026" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="740" y="400" width="130" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="870" y="400" width="150" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v53" value="Menunggu" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#ef8f00;strokeColor=#ef8f00;fontSize=10;fontColor=#ffffff;align=center;verticalAlign=middle;spacingLeft=2;spacingRight=2;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="878" y="408" width="70" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="v54" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="436" width="40" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v55" value="Jaman Tarigan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="300" y="436" width="190" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v56" value="Surat Keterangan Tidak Mampu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="490" y="436" width="250" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v57" value="29/09/2026" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="740" y="436" width="130" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="870" y="436" width="150" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v59" value="Diproses" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#1e6091;strokeColor=#1e6091;fontSize=10;fontColor=#ffffff;align=center;verticalAlign=middle;spacingLeft=2;spacingRight=2;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="878" y="444" width="70" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="v60" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="260" y="472" width="40" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v61" value="Beru Perangin-angin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="300" y="472" width="190" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v62" value="Surat Keterangan Domisili" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="490" y="472" width="250" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v63" value="28/09/2026" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=11;fontColor=#222222;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="740" y="472" width="130" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d0d7de;fontSize=12;fontColor=#222222;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+     <mxGeometry x="870" y="472" width="150" height="36" as="geometry" />
+    </mxCell>
+    <mxCell id="v65" value="Disetujui" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#2e7d32;strokeColor=#2e7d32;fontSize=10;fontColor=#ffffff;align=center;verticalAlign=middle;spacingLeft=2;spacingRight=2;spacingTop=0;spacingBottom=0;fontStyle=1;" vertex="1" parent="1">
+     <mxGeometry x="878" y="480" width="70" height="20" as="geometry" />
+    </mxCell>
+   </root>
+  </mxGraphModel>
+ </diagram>
+</mxfile>
